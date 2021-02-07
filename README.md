@@ -26,11 +26,11 @@
 ![Screenshot (81)](https://user-images.githubusercontent.com/61200479/107140007-3d7a0980-6945-11eb-8b66-20cc1f7df01a.png)
 
 
-### You can try it here 
+### You can try it here :
 
 https://DarkgreenGuiltyTrial-1.sureshroshi.repl.co
 
-### YouTube 
+### YouTube :
 
 
 ### Resourses :
