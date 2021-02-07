@@ -5,6 +5,7 @@ var both = 0;
 var counter = 0;
 var currentBlocks = [];
 
+
 window.onload = function() {
 
     //add constraints object
@@ -21,6 +22,7 @@ window.onload = function() {
     });
 
 }
+
 
 function moveLeft(){
     var left = parseInt(window.getComputedStyle(character).getPropertyValue("left"));
