@@ -16,7 +16,8 @@
 - In Teachable Machine We trained our audio samples and we downloaded the trained model code.
 - Then we linked the code with the Game.
 - Youtube link for fallball game - https://www.youtube.com/watch?v=gX3gSJ43f7I
-- Teachable Machine where the model is trained -  https://teachablemachine.withgoogle.com/
+- Teachable Machine where the model is trained -  https://teachablemachine.withgoogle.com/train/audio
+
 ### Output :
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/61200479/107140008-3e12a000-6945-11eb-9152-c373b54c1f69.png)
@@ -37,6 +38,6 @@ https://DarkgreenGuiltyTrial-1.sureshroshi.repl.co
 
 
 ### Resourses :
-Fall Ball Game : https://www.youtube.com/watch?v=gX3gSJ43f7I
-
-Teachable Machine : https://teachablemachine.withgoogle.com/train/audio
+Fall Ball Game (YouTube) : https://www.youtube.com/watch?v=gX3gSJ43f7I
+Fall Ball Game (GitHub)  : https://github.com/Beat0154/fall-game
+Google Teachable Machine : https://teachablemachine.withgoogle.com/
