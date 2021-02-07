@@ -19,9 +19,16 @@
 - Teachable Machine where the model is trained -  https://teachablemachine.withgoogle.com/
 ### Output :
 
+![Screenshot (79)](https://user-images.githubusercontent.com/61200479/107140008-3e12a000-6945-11eb-9152-c373b54c1f69.png)
+
+![Screenshot (80)](https://user-images.githubusercontent.com/61200479/107140006-3bb04600-6945-11eb-8cbb-775c1c51dbf3.png)
+
+![Screenshot (81)](https://user-images.githubusercontent.com/61200479/107140007-3d7a0980-6945-11eb-8b66-20cc1f7df01a.png)
+
+
 ### You can try it here 
 
-https://ai-based-game.sureshroshi.repl.co
+https://DarkgreenGuiltyTrial-1.sureshroshi.repl.co
 
 ### YouTube 
 
