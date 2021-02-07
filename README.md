@@ -13,7 +13,7 @@
   
 ### What we've did....
 - we collected the Fall ball game Code From the Github and modified it according to the Teachable Machine Model code.
-- In Teachable Machine We trained our audio samples and we uploaded in the cloud.
+- In Teachable Machine We trained our audio samples and we downloaded the trained model code.
 - Then we linked the code with the Game.
 - Youtube link for fallball game - https://www.youtube.com/watch?v=gX3gSJ43f7I
 - Teachable Machine where the model is trained -  https://teachablemachine.withgoogle.com/
