@@ -32,7 +32,9 @@ https://DarkgreenGuiltyTrial-1.sureshroshi.repl.co
 
 ### YouTube :
 
-https://youtu.be/GxaXQksdo80
+[![youtube link](https://img.youtube.com/vi/GxaXQksdo80/0.jpg)](https://www.youtube.com/watch?v=GxaXQksdo80)
+
+
 
 ### Resourses :
 Fall Ball Game : https://www.youtube.com/watch?v=gX3gSJ43f7I
